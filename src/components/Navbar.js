@@ -3,7 +3,7 @@ import DensityMediumIcon from "@mui/icons-material/DensityMedium";
 import CloseIcon from "@mui/icons-material/Close";
 import Button from '@mui/material/Button';
 import Image from "next/image";
-import Logo from "../../public/Imagelo.png"
+import Logo from "../../public/imagelo.png"
 import Link from "next/link"
 import Divider from '@mui/material/Divider';
 import FacebookOutlinedIcon from '@mui/icons-material/FacebookOutlined';
