@@ -1,0 +1,53 @@
+.provider{
+    font-size: 19px;
+    font-weight: 500;
+  padding-left:-2rem;
+    color: #3963A0;
+    text-align:start;
+    padding-top:6rem;
+    padding-left:0.8rem;
+}
+
+
+@media screen and (max-width:680px){
+    .provider{
+        font-size: 19px;
+        font-weight: 500;
+      padding-left:0rem;
+        color: #3963A0;
+        text-align:start;
+      
+       
+    }
+}
+
+.button{
+    background-color:#0D2240 ;
+    color:#D79016;
+    padding:16px 29px;
+    font-size:18px;
+    margin-top:1rem;
+    margin-left: 4rem;
+    padding-left:2rem;
+    transition:.6s ease;
+   
+}
+.button:hover{
+   
+        background-color:  #D79016;
+      color:#0D2240;
+   
+}
+
+
+@media screen and (max-width:680px){
+    .button{
+        padding:12px 19px;
+        font-size:16px;
+        margin-top:1rem;
+        margin-left: .4rem;
+       padding:1rem 2rem;
+        transition:.6s ease;
+    }
+   
+}
