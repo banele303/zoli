@@ -5,7 +5,7 @@ import {
   Typography,
 } from "@mui/material";
 import React from "react";
-import logo from "../../public/Imagelo.png"
+import logo from "../../public/imagelo.png"
 import classes from "../../styles/Footer.module.css";
 import Image from "next/image";
 import EmailIcon from "@mui/icons-material/Email";
