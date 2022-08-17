@@ -2,7 +2,7 @@ import classes from "../../styles/Form.module.css";
 import { Grid, Button, TextField, Typography, Stack } from "@mui/material";
 import React from "react";
 
-import logo from "../../public/Imagelo.png";
+import logo from "../../public/imagelo.png";
 import SendIcon from '@mui/icons-material/Send';
 import EmailIcon from "@mui/icons-material/Email";
 import EditLocationIcon from "@mui/icons-material/EditLocation";
